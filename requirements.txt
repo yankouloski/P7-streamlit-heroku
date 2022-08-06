@@ -88,7 +88,6 @@ sip==4.19.13
 slicer==0.0.7
 smmap==5.0.0
 Sphinx==4.2.0
-kernels_1634236950410/work
 sqlparse==0.4.2
 streamlit==1.11.1
 tabulate==0.8.9
