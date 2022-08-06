@@ -16,7 +16,7 @@ cachetools==5.0.0
 catboost==1.0.4
 certifi==2021.10.8
 click==7.1.2
-clyent==1.2.2
+#clyent==1.2.2
 commonmark==0.9.1
 conda==4.12.0
 conda-build==3.21.5
