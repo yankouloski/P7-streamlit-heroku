@@ -91,7 +91,7 @@ Sphinx==4.2.0
 sqlparse==0.4.2
 streamlit==1.11.1
 tabulate==0.8.9
-TBB==0.2
+#TBB==0.2
 tenacity==8.0.1
 terminado==0.9.4
 tzdata==2022.1
